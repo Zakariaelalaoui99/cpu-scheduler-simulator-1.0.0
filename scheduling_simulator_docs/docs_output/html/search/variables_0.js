@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['m_5falgorithm_0',['m_algorithm',['../class_scheduler.html#ad2db2fb0a585bde1601c56aaf55126b5',1,'Scheduler']]],
+  ['m_5farrival_1',['m_arrival',['../class_process.html#a25b2acc321b394452bbb7beaa20ae7c2',1,'Process::m_arrival'],['../class_thread.html#af27e0f6fefd7db469b42f09febeb1e2c',1,'Thread::m_arrival']]],
+  ['m_5fburst_2',['m_burst',['../class_process.html#aa962c29f9deccc7d4e714a3be83e67ca',1,'Process::m_burst'],['../class_thread.html#a867bbedade225391a9875f6d87e407ae',1,'Thread::m_burst']]],
+  ['m_5fcompletion_3',['m_completion',['../class_process.html#ad009e0f57d565160ba586e24913d2b67',1,'Process::m_completion'],['../class_thread.html#a94e1f213270a26bccb8b1b79e62b9664',1,'Thread::m_completion']]],
+  ['m_5fcontextswitch_4',['m_contextSwitch',['../class_scheduler.html#a072b7970197d27c449db51618a6922f3',1,'Scheduler']]],
+  ['m_5fgantt_5',['m_gantt',['../class_scheduler.html#a6047b1b358749d398d330e7e4fae3e04',1,'Scheduler']]],
+  ['m_5fmainwindow_6',['m_mainWindow',['../class_controller.html#a05551699f4f43b62738256b9f4e206fc',1,'Controller']]],
+  ['m_5fmode_7',['m_mode',['../class_scheduler.html#a11505afd51e7fe8899179c143c98f3f4',1,'Scheduler']]],
+  ['m_5fpid_8',['m_pid',['../class_process.html#a4a3a15079563d650e8359ddcef954368',1,'Process']]],
+  ['m_5fpriority_9',['m_priority',['../class_process.html#ac6c7152e758f7e13e2391a17dd3cb3c0',1,'Process::m_priority'],['../class_thread.html#aa02e3156c485263970b6b8987de0135f',1,'Thread::m_priority']]],
+  ['m_5fprocesses_10',['m_processes',['../class_scheduler.html#ac15ca9e92bb58dbaf7a4f4aba7da6f00',1,'Scheduler']]],
+  ['m_5fremaining_11',['m_remaining',['../class_thread.html#a8653f7ab00df9e3fe6cb42cfbb0fa748',1,'Thread']]],
+  ['m_5fscheduler_12',['m_scheduler',['../class_controller.html#a3d90f95470632c038b560202051dd889',1,'Controller']]],
+  ['m_5fstate_13',['m_state',['../class_thread.html#a4ef169e939c884063e009a7006821417',1,'Thread']]],
+  ['m_5fthreadquantum_14',['m_threadQuantum',['../class_scheduler.html#a618d8c741ba7e2b3bd50c81337b64ada',1,'Scheduler']]],
+  ['m_5fthreads_15',['m_threads',['../class_process.html#a8076dfbde5829d8fbf5746b3db99368f',1,'Process']]],
+  ['m_5ftid_16',['m_tid',['../class_thread.html#ab38243d1c3584e079e9aa07885d84e39',1,'Thread']]],
+  ['m_5fturnaround_17',['m_turnaround',['../class_process.html#ad3943316f9a1919784f50e6787656946',1,'Process::m_turnaround'],['../class_thread.html#a71ac565c1f9de45d495be2d79e3b58f5',1,'Thread::m_turnaround']]],
+  ['m_5fwaiting_18',['m_waiting',['../class_process.html#aadb032e408c1c9d46e58ec536ee2f51e',1,'Process::m_waiting'],['../class_thread.html#ae4bddf20019df307a42a92e492214135',1,'Thread::m_waiting']]]
+];

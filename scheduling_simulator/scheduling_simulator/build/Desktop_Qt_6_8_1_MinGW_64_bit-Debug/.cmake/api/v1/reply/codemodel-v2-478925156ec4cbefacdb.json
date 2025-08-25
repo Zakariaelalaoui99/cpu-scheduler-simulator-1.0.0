@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SchedulerApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "scheduler_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scheduler_app-Debug-067b64e969cddd3d2f25.json",
+					"name" : "scheduler_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scheduler_app_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scheduler_app_autogen-Debug-c1398b87fb3eb31370fd.json",
+					"name" : "scheduler_app_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scheduler_app_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scheduler_app_autogen_timestamp_deps-Debug-a6a34414febfd325d186.json",
+					"name" : "scheduler_app_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/zakar/Desktop/betriebsystem/0.0.1/scheduling_simulator_with_docs_final/scheduling_simulator/scheduling_simulator/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/zakar/Desktop/betriebsystem/0.0.1/scheduling_simulator_with_docs_final/scheduling_simulator/scheduling_simulator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

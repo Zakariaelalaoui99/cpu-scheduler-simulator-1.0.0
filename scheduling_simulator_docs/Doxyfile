@@ -1,0 +1,13 @@
+# Doxyfile for Scheduling Simulator
+PROJECT_NAME           = "Scheduling Simulator"
+OUTPUT_DIRECTORY       = docs_output
+GENERATE_LATEX         = NO
+GENERATE_MAN           = NO
+GENERATE_RTF           = NO
+RECURSIVE              = YES
+INPUT                  = ../scheduling_simulator/scheduling_simulator/include ../scheduling_simulator/scheduling_simulator/src
+FILE_PATTERNS          = *.hpp *.cpp
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+QUIET                  = NO
+WARN_IF_UNDOCUMENTED   = YES
