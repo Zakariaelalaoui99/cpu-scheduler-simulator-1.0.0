@@ -1,0 +1,16 @@
+# ninja log v6
+12	1418	7778337588597589	scheduler_app_autogen/timestamp	3f8ebd05b11eef2e
+12	1418	7778337588597589	scheduler_app_autogen/mocs_compilation.cpp	3f8ebd05b11eef2e
+12	1418	7778337588597589	C:/Users/zakar/Desktop/betriebsystem/0.0.1/1.0.0/scheduling_simulator/scheduling_simulator/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/scheduler_app_autogen/timestamp	3f8ebd05b11eef2e
+12	1418	7778337588597589	C:/Users/zakar/Desktop/betriebsystem/0.0.1/1.0.0/scheduling_simulator/scheduling_simulator/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/scheduler_app_autogen/mocs_compilation.cpp	3f8ebd05b11eef2e
+1479	4804	7778337590551007	CMakeFiles/scheduler_app.dir/src/sjf.cpp.obj	6c4fc0d6dcd8e7f0
+1487	5616	7778337590631330	CMakeFiles/scheduler_app.dir/src/rr.cpp.obj	5fb0e7905a294716
+1471	5683	7778337590477525	CMakeFiles/scheduler_app.dir/src/fcfs.cpp.obj	6b24199882fcf7d1
+1496	5710	7778337590723963	CMakeFiles/scheduler_app.dir/src/rrp.cpp.obj	fdee447103267c6e
+1463	5731	7778337590395992	CMakeFiles/scheduler_app.dir/src/scheduler.cpp.obj	a657179d59d947a6
+1435	6269	7778337590116352	CMakeFiles/scheduler_app.dir/src/main.cpp.obj	758c9544b2efa384
+1427	6789	7778337590036631	CMakeFiles/scheduler_app.dir/scheduler_app_autogen/mocs_compilation.cpp.obj	32b9942c2c29844a
+1452	7018	7778337590276893	CMakeFiles/scheduler_app.dir/src/controller.cpp.obj	1d6673cb990ea58e
+1504	7105	7778337590797349	CMakeFiles/scheduler_app.dir/src/ganttchartwidget.cpp.obj	7e86cfeaa2fad5f6
+1444	7699	7778337590200901	CMakeFiles/scheduler_app.dir/src/mainwindow.cpp.obj	d21ca563ce3949c7
+7700	7947	7778337652758364	scheduler_app.exe	e35eca53e470c3e6
