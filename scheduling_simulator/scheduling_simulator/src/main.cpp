@@ -16,6 +16,7 @@
 int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
 
+    app.setWindowIcon(QIcon(":/icons/app_icon.png"));  // aus resources.qrc
     auto algorithm = std::make_unique<FCFS>();
     Scheduler scheduler(std::move(algorithm));
     MainWindow window;

@@ -51,6 +51,9 @@ add_executable(scheduler_app
     include/ganttentry.hpp
 )
 
+qt_add_resources(APP_RESOURCES resources.qrc)
+target_sources(scheduler_app PRIVATE ${APP_RESOURCES})
+
 target_include_directories(scheduler_app PRIVATE
     ${CMAKE_CURRENT_SOURCE_DIR}/include
 )

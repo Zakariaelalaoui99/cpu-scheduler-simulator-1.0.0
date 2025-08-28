@@ -1,0 +1,19 @@
+# ninja log v6
+12	2930	7781131843716161	scheduler_app_autogen/timestamp	def426394af0ff7c
+12	2930	7781131843716161	scheduler_app_autogen/mocs_compilation.cpp	def426394af0ff7c
+12	2930	7781131843716161	C:/Users/Lenovo/Desktop/lastone/scheduling_simulator/scheduling_simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/scheduler_app_autogen/timestamp	def426394af0ff7c
+12	2930	7781131843716161	C:/Users/Lenovo/Desktop/lastone/scheduling_simulator/scheduling_simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/scheduler_app_autogen/mocs_compilation.cpp	def426394af0ff7c
+2946	3176	7781131847599323	qrc_resources.cpp	3c682b340ecf1f21
+2946	3176	7781131847599323	C:/Users/Lenovo/Desktop/lastone/scheduling_simulator/scheduling_simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/qrc_resources.cpp	3c682b340ecf1f21
+3237	12552	7781131848307688	CMakeFiles/scheduler_app.dir/src/fcfs.cpp.obj	5a30ac91013f8b02
+3224	15227	7781131848172120	CMakeFiles/scheduler_app.dir/src/scheduler.cpp.obj	861d4ff61e7304c8
+3190	18044	7781131847840663	CMakeFiles/scheduler_app.dir/src/main.cpp.obj	7bae0b687aa8ead6
+3212	18937	7781131848066538	CMakeFiles/scheduler_app.dir/src/controller.cpp.obj	60b944677ca2bf93
+3178	20230	7781131847719834	CMakeFiles/scheduler_app.dir/scheduler_app_autogen/mocs_compilation.cpp.obj	e984cf608d7159c6
+12553	22790	7781131941476452	CMakeFiles/scheduler_app.dir/src/sjf.cpp.obj	e3672ef45ce27f5f
+3203	24399	7781131847966163	CMakeFiles/scheduler_app.dir/src/mainwindow.cpp.obj	724796b73c1e6c78
+15227	26205	7781131968222548	CMakeFiles/scheduler_app.dir/src/rr.cpp.obj	a41c9beec85c84fd
+18045	28330	7781131996409696	CMakeFiles/scheduler_app.dir/src/rrp.cpp.obj	b1f8d8a600b10d23
+20230	30855	7781132018263702	CMakeFiles/scheduler_app.dir/qrc_resources.cpp.obj	9c83a8c747fbdd62
+18938	31661	7781132005328640	CMakeFiles/scheduler_app.dir/src/ganttchartwidget.cpp.obj	e154e40c08cd495
+31661	32363	7781132132586201	scheduler_app.exe	b7438d72fb00a72

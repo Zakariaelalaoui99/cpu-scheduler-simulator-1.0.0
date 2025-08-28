@@ -18,6 +18,7 @@ MainWindow::MainWindow(QWidget* parent)
 {
     ui->setupUi(this);
 
+
     // fill algorithm choices
     ui->algorithmBox->addItems({"FCFS","SJF","RR","RRP"});
     ui->modeBox->addItems({"Process Only","Kernel-Level Threads","User-Level Threads"});
